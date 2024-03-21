@@ -11,6 +11,6 @@ A person who is willing to learn new things. Hope to make a good impact on the w
 - 👯 Persuing Master Degree at National Cheng Kung University.
 - 😍 My hobbies are reading, writing, traveling, and playing music.
 - 💌 Contact me at yinghuayeh0521@gmail.com.
-- 📓 Machine Learning Note at https://reurl.cc/Rzq76g
+- 📓 Machine Learning Note at https://hackmd.io/@yinghuaxia/image_processing_ML_note
 - 📫 Programming Languages: C/C++, Python, System Verilog, Matlab
 - 🎆 Machine Learning / Deep Learning frameworks: Jupyter Notebook, PyTorch, Scikit-learn, TensorFlow, Pandas
